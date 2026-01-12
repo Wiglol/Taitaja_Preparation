@@ -1,0 +1,8 @@
+﻿PRESENTATION STRUCTURE (Task 3)
+------------------------------
+Slide 1: Title + theme
+Slide 2: Goal + controls
+Slide 3: Core loop + mechanics
+Slide 4: What makes it interesting (1â€“3 points)
+Slide 5: Demo / screenshots
+Slide 6: Summary + future improvements (if time)

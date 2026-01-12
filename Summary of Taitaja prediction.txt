@@ -1,0 +1,117 @@
+TAITAJA PELITUOTANTO – SUMMARY (2019–2025) & 2026 PREDICTION
+==========================================================
+
+This document summarizes recurring patterns in the Taitaja Pelituotanto competition
+based on tasks from 2019–2025 and provides a grounded prediction for 2026.
+
+----------------------------------------------------------
+GENERAL STRUCTURE (CONSISTENT EVERY YEAR)
+----------------------------------------------------------
+The competition follows the same structure every year:
+
+Task 1 – Concept / Planning
+- Short design or concept task
+- Usually 15–20% of total score
+
+Task 2 – Game Development
+- Main task, usually 55–60% of total score
+- This task decides most rankings
+
+Task 3 – Presentation
+- Final presentation and demo
+- Usually around 20% of total score
+
+This structure is extremely stable and is expected to remain unchanged in 2026.
+
+----------------------------------------------------------
+TASK 1 – CONCEPT / PLANNING
+----------------------------------------------------------
+Typical requirements:
+- Game idea and genre
+- Target audience
+- Core mechanics
+- How the given theme affects gameplay
+
+Common mistakes:
+- Overly large or unrealistic ideas
+- Spending too much time writing instead of planning
+
+What scores well:
+- Simple, realistic concepts
+- Clear connection to the theme
+- Games that are clearly possible to finish in the given time
+
+Prediction for 2026:
+- A client brief or theme-based assignment
+- Short written concept or slides
+- Focus on clarity, not length
+
+----------------------------------------------------------
+TASK 2 – GAME DEVELOPMENT (MOST IMPORTANT)
+----------------------------------------------------------
+Common expectations every year:
+- Functional player controls
+- Clear gameplay loop
+- Win and/or lose conditions
+- User interface explaining controls or status
+- Score, health, timer, or progress system
+- At least one challenge (enemy, obstacle, puzzle, time pressure)
+- Audio (music and/or sound effects)
+- Stable performance on Windows PC
+
+Key observation:
+A small, complete, polished game consistently scores higher
+than a large but unfinished or buggy project.
+
+Engine trends:
+- Unity (especially 2D) is the most practical and common choice
+- Judges focus on gameplay and usability, not advanced technology
+
+----------------------------------------------------------
+TASK 3 – PRESENTATION
+----------------------------------------------------------
+Judges expect:
+- Clear explanation of the game
+- Slides that match the game visually
+- Explanation of mechanics and theme
+- Short demo or video
+- Understandable English
+
+Common issues:
+- Weak structure
+- Poor explanation of design choices
+- Lack of preparation
+
+----------------------------------------------------------
+OVERALL PATTERNS (2019–2025)
+----------------------------------------------------------
+- Tasks emphasize clarity, usability, and completeness
+- UI and player feedback are important
+- Accessibility and readability matter
+- Complex systems are not required to score well
+
+----------------------------------------------------------
+2026 PREDICTION
+----------------------------------------------------------
+Very likely:
+- Unity-compatible task
+- 2D or simple 3D game
+- Theme or client-based assignment
+- Strong focus on UI and player understanding
+
+Very unlikely:
+- Multiplayer or networking
+- Large 3D open-world projects
+- Procedural generation
+- Mobile or web-specific deployment
+
+----------------------------------------------------------
+PREPARATION STRATEGY
+----------------------------------------------------------
+Effective preparation includes:
+- A reusable script toolkit (movement, UI, enemies, scoring, etc.)
+- Understanding what each script does at a high level
+- Ability to adapt existing scripts to new tasks
+- Clear presentation structure prepared in advance
+
+This approach aligns well with competition expectations.

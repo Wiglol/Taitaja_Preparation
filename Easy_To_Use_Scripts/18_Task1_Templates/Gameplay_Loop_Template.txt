@@ -1,0 +1,8 @@
+﻿GAMEPLAY LOOP TEMPLATE
+----------------------
+1) Player starts with:
+2) Player does:
+3) Game responds with:
+4) Player receives feedback via:
+5) Win when:
+6) Lose when:

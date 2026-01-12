@@ -1,0 +1,12 @@
+﻿Template: Platformer 2D
+----------------------
+Player:
+- Rigidbody2D + Collider2D
+- MoveHorizontal2D + Jump2D (+ BetterJump2D optional)
+- Health + InvincibilityFrames (optional)
+Camera:
+- CameraFollow2D (+ CameraShake optional)
+Enemies:
+- EnemyPatrol2D + DamageOnTrigger2D
+Pickups:
+- CollectibleScore2D (needs ScoreUI)

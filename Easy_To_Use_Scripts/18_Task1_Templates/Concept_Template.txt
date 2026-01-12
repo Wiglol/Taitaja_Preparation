@@ -1,0 +1,23 @@
+﻿CONCEPT TEMPLATE (Task 1)
+-------------------------
+Title:
+Genre:
+Target audience:
+Theme requirement:
+
+Core gameplay loop (one sentence):
+Player goal / win condition:
+Lose condition / fail state:
+
+Controls:
+Main mechanic:
+Secondary mechanic:
+
+Enemies / obstacles:
+Progression:
+UI needed:
+Audio needed:
+
+Scope control:
+- What we WILL build:
+- What we will NOT build:

@@ -1,0 +1,22 @@
+﻿QuickStart 2D (fast)
+--------------------
+Player:
+- SpriteRenderer
+- Rigidbody2D (Dynamic)
+- BoxCollider2D
+- Tag: Player
+Add scripts:
+- 01_Core/MoveHorizontal2D
+- 01_Core/Jump2D (tag based)
+Optional:
+- 01_Core/BetterJump2D, 01_Core/LadderClimb2D, 06_Combat/Health + InvincibilityFrames
+
+Ground:
+- Collider2D (Box/Tilemap)
+- Tag: Ground
+
+Camera:
+- Put 02_Camera/CameraFollow2D on Main Camera and assign Player
+
+If you fall through:
+- You're mixing 2D and 3D components. Keep it all 2D.

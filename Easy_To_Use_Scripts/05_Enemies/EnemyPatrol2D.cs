@@ -1,0 +1,30 @@
+﻿using UnityEngine;
+
+public class EnemyPatrol2D : MonoBehaviour
+{
+    public Transform pointA;
+    public Transform pointB;
+    public float speed = 2f;
+
+    private Transform target;
+
+    private void Start()
+    {
+        target = pointB;
+    }
+
+    private void Update()
+    {
+        if (!pointA || !pointB) return;
+
+        transform.position = Vector3.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+
+        if (Vector3.Distance(transform.position, target.position) < 0.05f)
+        {
+            target = target == pointA ? pointB : pointA;
+            Vector3 s = transform.localScale;
+            s.x *= -1f;
+            transform.localScale = s;
+        }
+    }
+}
